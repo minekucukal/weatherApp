@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "477746696093",
+    "firebase_url": "https://funnyweather-d2a78.firebaseio.com",
+    "project_id": "funnyweather-d2a78",
+    "storage_bucket": "funnyweather-d2a78.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:477746696093:android:33512a80391ba1b9",
+        "android_client_info": {
+          "package_name": "com.example.x.crweather"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "477746696093-122les1ifrot0ki09do4c9em4dn8sqg6.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.x.crweather",
+            "certificate_hash": "5cc681f9f8697e90b5c9b215fb768b08139f9d02"
+          }
+        },
+        {
+          "client_id": "477746696093-5duocra4pvngutdbtb7qf85ojmbf8v6o.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDFwt_cU44xy5K2H9ZFl1kutyW0nirnJ0c"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "477746696093-5duocra4pvngutdbtb7qf85ojmbf8v6o.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
